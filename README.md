@@ -13,6 +13,23 @@ SAMPLE SCREENSHOTS
 
 ![2 2 passenger print ticket](https://github.com/Praveena1309/Train-Seat-Booking-System-for-Enhanced-User-Experience-and-Administrative-Efficiency/assets/121342359/5b7e45e3-8fd9-4141-8251-7b032fb9ddb0)
 
+ADMIN PAGE
+
+![1 admin login](https://github.com/Praveena1309/Train-Seat-Booking-System-for-Enhanced-User-Experience-and-Administrative-Efficiency/assets/121342359/dda053bd-cf23-49bf-a62d-3c37dabc18d7)
+
+![1 1 admin dashboard](https://github.com/Praveena1309/Train-Seat-Booking-System-for-Enhanced-User-Experience-and-Administrative-Efficiency/assets/121342359/3c70eb33-8fb2-4fcd-bd26-a1efea5ff04e)
+
+![1 1 list of station](https://github.com/Praveena1309/Train-Seat-Booking-System-for-Enhanced-User-Experience-and-Administrative-Efficiency/assets/121342359/9603c08b-ffde-4807-8bf2-95dc7da84394)
+
+![1 3 list of routes](https://github.com/Praveena1309/Train-Seat-Booking-System-for-Enhanced-User-Experience-and-Administrative-Efficiency/assets/121342359/0598050e-b220-4c8a-9cd2-f78ac8b14c05)
+
+![1 9 booking](https://github.com/Praveena1309/Train-Seat-Booking-System-for-Enhanced-User-Experience-and-Administrative-Efficiency/assets/121342359/a4de3084-8415-4df2-871d-6616215be400)
+
+DATABASE
+
+![3 database](https://github.com/Praveena1309/Train-Seat-Booking-System-for-Enhanced-User-Experience-and-Administrative-Efficiency/assets/121342359/82bc42a7-b776-43d1-9128-b1e548f79d81)
+
+![3 1 booking](https://github.com/Praveena1309/Train-Seat-Booking-System-for-Enhanced-User-Experience-and-Administrative-Efficiency/assets/121342359/4f837a6f-6851-4bf0-b3a1-4b2390ca278a)
 
 
 
